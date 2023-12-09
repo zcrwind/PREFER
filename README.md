@@ -2,7 +2,7 @@
 This is the official implementation of the AAAI-2024 paper [*PREFER: Prompt Ensemble Learning via Feedback-Reflect-Refine*](https://arxiv.org/abs/2308.12033).
 
 ## Overview
-![](./imgs/high_level_overview.png)
+![](./high_level_overview.png)
 
 
 ## Requirements
